@@ -3,6 +3,7 @@ package Strings;
 import java.util.ArrayList;
 
 public class StringsPractice {
+    //This is a sting practice class for chaitanya
 
 
     //Creating an object of the class
